@@ -1,7 +1,7 @@
 ================== CustomDota v2.12 ==================
 
-Autho: zxcvntx
-Tested versions: 1.18
+Autho: zxcvntx  
+Tested versions: 1.18  
 
 Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of Atos,
     Heart of Tarrasque, Force Staff, Armlet of Mordiggian, Witch Blade, Desolator, Blink dagger,
@@ -12,10 +12,10 @@ Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of
     Manta Style, Abyssal Blade, Meteor Hammer, Blademail, Maelstorm, Harpoon, Refresher Orb, Aeon Disk, Ghost Scepter
 
 Notes:
-    Items don't work in adventure mode
-    Manta Style works incorrect with peaceful difficulty
+    Items don't work in adventure mode  
+    Manta Style works incorrect with peaceful difficulty  
 
-Command stack: /get{item}, /dotacrafts
+Command stack: /get{item}, /dotacrafts  
     Example: /getradiance
 
 To check crafts use JEI or /dotacrafts
