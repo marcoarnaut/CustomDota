@@ -1,4 +1,4 @@
-================== CustomDota v2.12 ==================
+================== CustomDota v2.15 ==================
 
 Autho: zxcvntx  
 Tested versions: 1.18  
@@ -9,7 +9,8 @@ Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of
     Shiva's Guard, Vanguard, Brigand's Blade, Mind Breaker, Assault Cuirass, Crystalys, Daedalus, Silver Blade, Bloodthorn,
     Mage Slayer, Urn of Shadows, Spirit Vessel, Dagger of Ristul, Flicker, Defiant Shell, Lance of Pursuit, Gloves of Haste,
     Helm of Iron Will, Blades of Attack, Recipe, Oblivion Staff, Parasma, Yasha & Kaya, Sange & Kaya, Sange & Yasha,
-    Manta Style, Abyssal Blade, Meteor Hammer, Blademail, Maelstorm, Harpoon, Refresher Orb, Aeon Disk, Ghost Scepter
+    Manta Style, Abyssal Blade, Meteor Hammer, Blademail, Maelstorm, Harpoon, Refresher Orb, Aeon Disk, Ghost Scepter,  
+    Dust of Appearance
 
 Notes:
     Items don't work in adventure mode  
