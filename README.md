@@ -1,4 +1,4 @@
-================== CustomDota v3.0 ==================
+================== CustomDota v3.00 ==================
 
 Autho: zxcvntx  
 Tested versions: 1.18  
