@@ -1,6 +1,6 @@
 ================== CustomDota v3.00 ==================
 
-Autho: zxcvntx  
+Author: zxcvntx  
 Tested versions: 1.18  
 
 Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of Atos,
