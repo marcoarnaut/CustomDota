@@ -8,9 +8,10 @@ Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of
     Dagon, Revenant's brooch, diffusal blade, Sange, Yasha, Kaya, Eul's scepter of Divinity, Mjollnir, Black King Bar,
     Shiva's Guard, Vanguard, Brigand's Blade, Mind Breaker, Assault Cuirass, Crystalys, Daedalus, Silver Blade, Bloodthorn,
     Mage Slayer, Urn of Shadows, Spirit Vessel, Dagger of Ristul, Flicker, Defiant Shell, Lance of Pursuit, Gloves of Haste,
-    Helm of Iron Will, Blades of Attack, Recipe, Oblivion Staff, Parasma, Yasha & Kaya, Sange & Kaya, Sange & Yasha,
+    Helm of Iron Will, Blades of Attack, Recipe, Oblivion Staff, Parasma, Yasha & Kaya, Sange & Kaya, Sange & Yasha,  
     Manta Style, Abyssal Blade, Meteor Hammer, Blademail, Maelstorm, Harpoon, Refresher Orb, Aeon Disk, Ghost Scepter,  
-    Dust of Appearance, Heaven's Halberd, Eye of Skadi, Butterfly, Monkey King Bar, Moonshard, Eternal Shroud
+    Dust of Appearance, Heaven's Halberd, Eye of Skadi, Butterfly, Monkey King Bar, Moonshard, Eternal Shroud,  
+    Satanic, Power Treads, Phase Boots, Arcane Boots, Tranquil Boots.
 
 Notes:
     Items don't work in adventure mode  
