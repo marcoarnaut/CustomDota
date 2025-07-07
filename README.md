@@ -1,7 +1,7 @@
 ================== CustomDota v3.23 ==================
 
 Author: zxcvntx  
-Tested versions: 1.18  
+Tested versions: 1.18, 1.19, 1.20, 1.21  
 
 Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of Atos,
     Heart of Tarrasque, Force Staff, Armlet of Mordiggian, Witch Blade, Desolator, Blink dagger,
