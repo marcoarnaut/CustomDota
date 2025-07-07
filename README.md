@@ -1,4 +1,4 @@
-================== CustomDota v3.22 ==================
+================== CustomDota v3.23 ==================
 
 Author: zxcvntx  
 Tested versions: 1.18  
