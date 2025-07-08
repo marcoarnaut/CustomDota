@@ -1,4 +1,4 @@
-================== CustomDota v3.23 ==================
+================== CustomDota v3.24 ==================
 
 Author: zxcvntx  
 Tested versions: 1.18, 1.19, 1.20, 1.21  
@@ -11,7 +11,7 @@ Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of
     Helm of Iron Will, Blades of Attack, Recipe, Oblivion Staff, Parasma, Yasha & Kaya, Sange & Kaya, Sange & Yasha,  
     Manta Style, Abyssal Blade, Meteor Hammer, Blademail, Maelstorm, Harpoon, Refresher Orb, Aeon Disk, Ghost Scepter,  
     Dust of Appearance, Heaven's Halberd, Eye of Skadi, Butterfly, Monkey King Bar, Moonshard, Eternal Shroud,  
-    Satanic, Power Treads, Phase Boots, Arcane Boots, Tranquil Boots.
+    Satanic, Power Treads, Phase Boots, Arcane Boots, Tranquil Boots, Crimson Guard, Solar Crest.
 
 Notes:
     Items don't work in adventure mode  
